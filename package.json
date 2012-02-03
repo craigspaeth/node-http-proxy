@@ -33,5 +33,5 @@
     "test-https": "vows --spec --source=secure && vows --spec --source=secure --target=secure",
     "test-core": "test/core/run"
   },
-  "engines": { "node": ">= 0.6.6" }
+  "engines": { "node": ">= 0.4.7" }
 }
